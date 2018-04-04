@@ -1,0 +1,21 @@
+#Code Review Checklist
+
+###developer
+
+####before request
+- don't work too long on your code
+- is your code readable?
+- are you able to understand code easily?
+- is the same code duplicated?
+
+####after request
+- Be grateful for the reviewer's suggestions
+- Don't take it personally
+- Seek to understand the reviewer's perspective
+
+###reviewer
+####during request
+- Seek to understand the author's perspective
+- Identify ways to simplify the code
+- Communicate
+- Offer alternative implementations
